@@ -22,17 +22,19 @@
 
 🔹 Judicial Case Management System (JCMS)  
 E-case filing system for high courts promoting paperless workflow, reducing time and costs.
+[Link](https://jcms.webhostingfree.io/)
 
 🔹 Notes Share  
 A platform for students to share and access educational notes for semester preparations.
+[Repository](https://github.com/bsahoo8342/notesshare)
 
 🔹 Ravenshaw University Official Website Redesign  
 Developed a responsive, accessible, and clean design for university presence and engagement.
+[Repository](https://github.com/bsahoo8342/ravenshawuniversity)
 
 🔹 Online Railway Reservation System (ORRS)  
 A real-time, secure ticket booking platform for seamless train reservations.
 
-> 🛠️ View all projects in my pinned repositories or under [Repositories](https://github.com/your-github-username?tab=repositories).
 
 ---
 
@@ -46,8 +48,7 @@ A real-time, secure ticket booking platform for seamless train reservations.
 
 ## 🎯 Currently Learning
 
-🚀 Advanced JavaScript frameworks (React, Vue)  
-🚀 Exploring RESTful API design & integration  
+🚀 Advanced JavaScript frameworks (React, JQuery)    
 🚀 Solidity and smart contract security for blockchain  
 🚀 Data structures & algorithms for efficient coding practices
 
@@ -66,8 +67,8 @@ I am open to:
 ## 📫 Connect with Me
 
 📧 Email: [sahoobiswajit9090@gmail.com](mailto:sahoobiswajit9090@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link) *(Replace with your LinkedIn)*  
-🌐 Portfolio: Coming Soon!
+💼 LinkedIn: [linkedin.com/in/biswajit8342](https://www.linkedin.com/in/biswajit8342/) 
+🌐 Portfolio: [Biswajit Sahoo](https://bsahoo8342.github.io/resume/)
 
 ---
 
@@ -79,13 +80,6 @@ I am open to:
 
 ---
 
-## 📊 GitHub Stats
-
-![Biswajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
----
 
 ## 🔖 Tags
 
