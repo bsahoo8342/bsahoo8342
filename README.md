@@ -67,7 +67,7 @@ I am open to:
 ## 📫 Connect with Me
 
 📧 Email: [sahoobiswajit9090@gmail.com](mailto:sahoobiswajit9090@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/biswajit8342](https://www.linkedin.com/in/biswajit8342/) 
+💼 LinkedIn: [linkedin.com/in/biswajit8342](https://www.linkedin.com/in/biswajit8342/)   
 🌐 Portfolio: [Biswajit Sahoo](https://bsahoo8342.github.io/resume/)
 
 ---
