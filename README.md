@@ -69,6 +69,7 @@ I am open to:
 📧 Email: [sahoobiswajit9090@gmail.com](mailto:sahoobiswajit9090@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/biswajit8342](https://www.linkedin.com/in/biswajit8342/)   
 🌐 Portfolio: [Biswajit Sahoo](https://bsahoo8342.github.io/resume/)
+ORCID: [Biswajit Sahoo](https://orcid.org/0009-0004-6632-5710)
 
 ---
 
