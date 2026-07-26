@@ -1,95 +1,88 @@
-# 👋 Hi, I'm Biswajit Sahoo
+<div align="center">
 
-🎓 MSc Computer Science | Web Developer | Programmer | UGC-NET Qualified
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1E63A5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Sahoo;PhD+Scholar+%40+NIT+Rourkela;5G+%2B+Healthcare+%2B+IoT+Researcher;Building+Sustainable+Tech+Solutions" alt="Typing SVG" />
 
-🌱 Currently pursuing my master's at Central University of Odisha, I am passionate about building interactive, scalable, and user-centric web applications that deliver real value. I believe in learning by building and am driven by the challenge of transforming ideas into efficient, clean, and functional products.
+</div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/PhD%20Scholar-NIT%20Rourkela-1E63A5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research%20Area-5G%20%7C%20Healthcare-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Cuttack%2C%20Odisha-orange?style=for-the-badge" />
+</div>
 
-## 🚀 What I Do
+<br>
 
-✨ Web Development: HTML, CSS, JavaScript, PHP, Bootstrap  
-✨ Programming: Python, Java, C, R  
-✨ Databases: Oracle, MySQL  
-✨ Tools & Libraries: PDFjs, DataTables, Swiftmailer, PHPMailer, Web Hosting  
-✨ Blockchain: Solidity (Smart Contract Development)  
-✨ Version Control: Git & GitHub  
-✨ Operating Systems: Windows, Linux
+## 👨‍🔬 About Me
 
----
+I'm a **PhD Scholar & Project Fellow** at the **National Institute of Technology (NIT) Rourkela**, working at the intersection of **5G Communication Systems and Healthcare**. I'm currently part of an **ANRF-funded research consortium** developing sustainable technology solutions spanning **agriculture, health, energy, and environment**.
 
-## 🛠️ Key Projects
+- 🔭 Currently working on **Consortium of Technologies for Sustainable Agriculture, Health, Energy and Environment**
+- 🌱 Research interests: **5G Networks · IoT · Blockchain · Healthcare Systems · Sustainable Tech**
+- 📝 Published research on Blockchain–IoT digital transformation in agricultural systems
+- ✅ **UGC-NET (Dec 2024)** qualified — PhD & Assistant Professorship
+- 🌐 Fluent in **English, Odia, and Hindi**
+- 📍 Based in **Cuttack, Odisha, India**
 
-🔹 Judicial Case Management System (JCMS)  
-E-case filing system for high courts promoting paperless workflow, reducing time and costs.
-[Link](https://jcms.webhostingfree.io/)
+<br>
 
-🔹 Notes Share  
-A platform for students to share and access educational notes for semester preparations.
-[Repository](https://github.com/bsahoo8342/notesshare)
+## 🔬 Current Research Project
 
-🔹 Ravenshaw University Official Website Redesign  
-Developed a responsive, accessible, and clean design for university presence and engagement.
-[Repository](https://github.com/bsahoo8342/ravenshawuniversity)
+**Consortium of Technologies for Sustainable Agriculture, Health, Energy and Environment**
+> Funded by **Anusandhan National Research Foundation (ANRF)**
+> **PI:** Dr. Swadesh Kumar Pratihar &nbsp;|&nbsp; **Co-PI:** Dr. Suman Kumar Dey
+> *Jul 2026 – Present*
 
-🔹 Online Railway Reservation System (ORRS)  
-A real-time, secure ticket booking platform for seamless train reservations.
+Contributing as Project Fellow to a multi-domain research consortium developing technology-driven, sustainable solutions across agriculture, healthcare, energy, and environmental systems.
 
+<br>
 
----
+## 📄 Publications
+
+- **"A Systematic Review of Advancements in Blockchain IoT-Based Digital Transformations in Agricultural Systems"**
+  *Discover Sustainability, Springer Nature* — [DOI: 10.xxxx/xxxxx](https://doi.org/)
+
+<br>
 
 ## 🏆 Achievements
 
-✅ Qualified UGC-NET 2024 (Eligible for PhD & Assistant Professor roles)  
-✅ Built scalable academic projects solving real-life workflow problems  
-✅ Actively contributing to personal and academic open-source projects
+- 🥇 **UGC-NET December 2024** — Qualified for PhD Admission & Assistant Professorship eligibility
 
----
+<br>
 
-## 🎯 Currently Learning
+## 🛠️ Skills & Interests
 
-🚀 Advanced JavaScript frameworks (React, JQuery)    
-🚀 Solidity and smart contract security for blockchain  
-🚀 Data structures & algorithms for efficient coding practices
+<div align="left">
+  <img src="https://img.shields.io/badge/5G%20Communication-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blockchain-F7931A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Healthcare%20Systems-D81B60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sustainable%20Tech-43A047?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research%20%26%20Academia-6A1B9A?style=flat-square" />
+</div>
 
----
-
-## 🤝 Let’s Collaborate!
-
-I am open to:
-- Web Development Internships
-- Open Source Contributions
-- Research & Development Projects
-- Collaborative learning projects
-
----
+<br>
 
 ## 📫 Connect with Me
 
-📧 Email: [sahoobiswajit9090@gmail.com](mailto:sahoobiswajit9090@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/biswajit8342](https://www.linkedin.com/in/biswajit8342/)   
-🌐 Portfolio: [Biswajit Sahoo](https://bsahoo8342.github.io/resume/)  
-ORCID: [Biswajit Sahoo](https://orcid.org/0009-0004-6632-5710)
+<div align="left">
+  <a href="mailto:bsahoo8342@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0004-6632-5710">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://github.com/bsahoo8342">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
----
+</div>
 
-## 💡 Fun Facts About Me
+<br>
 
-♟️ I love playing chess – it helps sharpen my strategic thinking.  
-🎶 Enjoy listening to music while coding.  
-💻 Love exploring new tech tools that improve productivity.
+<div align="center">
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=bsahoo8342&color=1E63A5&style=flat-square&label=Profile+Views)
 
+⭐️ *"Bridging communication systems, IoT, and real-world sustainability challenges through research."*
 
-## 🔖 Tags
-
-#WebDevelopment #Python #Java #Blockchain #OpenSource #UGCNET #FullStack #LearningInPublic #StudentDeveloper #SoftwareEngineering
-
----
-
-> *“Building solutions, one commit at a time.”*
-
-Thank you for visiting my GitHub! Feel free to ⭐️ my repositories, open issues, or connect for collaboration opportunities.
-
----
+</div>
