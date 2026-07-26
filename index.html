@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biswajit Sahoo | PhD Scholar @ NIT Rourkela</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="GitHub-style portfolio of Biswajit Sahoo - PhD Scholar & ANRF Project Fellow at NIT Rourkela specializing in 5G Healthcare & Blockchain-IoT Systems.">
+    <meta name="keywords" content="Biswajit Sahoo, NIT Rourkela, PhD Scholar, 5G Healthcare, Blockchain IoT, Sustainable Tech">
+    <meta name="author" content="Biswajit Sahoo">
+
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --card-bg: #161b22;
+            --border-color: #30363d;
+            --text-primary: #c9d1d9;
+            --text-heading: #f0f6fc;
+            --text-muted: #8b949e;
+            --accent-blue: #58a6ff;
+            --accent-green: #3fb950;
+            --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: var(--font-stack);
+            line-height: 1.6;
+            padding: 2rem 1rem;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            background-color: var(--bg-color);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+        }
+
+        /* Centered Header & Badges */
+        .header-section {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .typing-svg {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 1rem;
+        }
+
+        .badge-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-top: 0.5rem;
+        }
+
+        .badge-container img {
+            height: 28px;
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            background-color: var(--border-color);
+            margin: 2rem 0;
+        }
+
+        /* Section Titles */
+        .section-heading {
+            font-size: 1.35rem;
+            color: var(--text-heading);
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 0.4rem;
+            margin-bottom: 1.25rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        /* About List */
+        .about-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            font-size: 0.98rem;
+        }
+
+        .about-list li {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.5rem;
+        }
+
+        .about-list strong {
+            color: var(--text-heading);
+        }
+
+        /* Table Styling (GitHub Markdown Style) */
+        .table-wrapper {
+            overflow-x: auto;
+            margin-bottom: 1rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.92rem;
+            text-align: left;
+        }
+
+        th, td {
+            padding: 10px 14px;
+            border: 1px solid var(--border-color);
+        }
+
+        th {
+            background-color: var(--card-bg);
+            color: var(--text-heading);
+            font-weight: 600;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(110, 118, 129, 0.04);
+        }
+
+        /* Research & Project Cards */
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1.25rem;
+            margin-bottom: 1rem;
+        }
+
+        .card-title {
+            color: var(--accent-blue);
+            font-size: 1.05rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .card-meta {
+            font-size: 0.88rem;
+            color: var(--text-muted);
+            margin-bottom: 0.75rem;
+        }
+
+        .card-body {
+            font-size: 0.95rem;
+            color: var(--text-primary);
+        }
+
+        /* Skills & Links Flex Layouts */
+        .flex-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 0.5rem;
+        }
+
+        .flex-badges img {
+            height: 26px;
+        }
+
+        .connect-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .connect-links a {
+            text-decoration: none;
+            transition: opacity 0.2s ease;
+        }
+
+        .connect-links a:hover {
+            opacity: 0.85;
+        }
+
+        .connect-links img {
+            height: 32px;
+        }
+
+        /* Quote Footer */
+        .quote-box {
+            text-align: center;
+            font-style: italic;
+            color: var(--text-muted);
+            padding: 1.5rem 1rem;
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            margin-top: 2rem;
+            font-size: 0.95rem;
+        }
+
+        a.inline-link {
+            color: var(--accent-blue);
+            text-decoration: none;
+        }
+
+        a.inline-link:hover {
+            text-decoration: underline;
+        }
+
+        /* Mobile Optimization */
+        @media (max-width: 600px) {
+            body {
+                padding: 1rem 0.5rem;
+            }
+            .container {
+                padding: 1.25rem 0.85rem;
+            }
+            .section-heading {
+                font-size: 1.15rem;
+            }
+            table {
+                font-size: 0.85rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        
+        <!-- Header Banner & Typing Animation -->
+        <div class="header-section">
+            <img class="typing-svg" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1E63A5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Sahoo;PhD+Scholar+%40+NIT+Rourkela;5G+%2B+Healthcare+%2B+IoT+Researcher;Building+Sustainable+Tech+Solutions" alt="Typing SVG" />
+            
+            <div class="badge-container">
+                <img src="https://img.shields.io/badge/PhD%20Scholar-NIT%20Rourkela-1E63A5?style=for-the-badge" alt="PhD Scholar NIT Rourkela" />
+                <img src="https://img.shields.io/badge/Research%20Area-5G%20%7C%20Healthcare-2E7D32?style=for-the-badge" alt="Research Area 5G Healthcare" />
+                <img src="https://img.shields.io/badge/Location-Cuttack%2C%20Odisha-orange?style=for-the-badge" alt="Location Cuttack Odisha" />
+            </div>
+        </div>
+
+        <!-- About Me Section -->
+        <div class="section-heading">👨‍🔬 About Me</div>
+        <p style="margin-bottom: 1rem;">
+            I'm a PhD Scholar & Project Fellow at the <strong>National Institute of Technology (NIT) Rourkela</strong>, working at the intersection of 5G Communication Systems and Healthcare. I'm currently part of an ANRF-funded research consortium developing sustainable technology solutions spanning agriculture, health, energy, and environment.
+        </p>
+        <ul class="about-list">
+            <li><span>🔭</span> <div><strong>Currently working on:</strong> Consortium of Technologies for Sustainable Agriculture, Health, Energy and Environment</div></li>
+            <li><span>🌱</span> <div><strong>Research interests:</strong> 5G Networks · IoT · Blockchain · Healthcare Systems · Sustainable Tech</div></li>
+            <li><span>📝</span> <div><strong>Publications:</strong> Published research on Blockchain–IoT digital transformation in agricultural systems</div></li>
+            <li><span>✅</span> <div><strong>Certifications:</strong> UGC-NET (Dec 2024) qualified — PhD Admission & Assistant Professorship</div></li>
+            <li><span>🌐</span> <div><strong>Languages:</strong> Fluent in English, Odia, and Hindi</div></li>
+            <li><span>📍</span> <div><strong>Base:</strong> Cuttack, Odisha, India</div></li>
+        </ul>
+
+        <hr>
+
+        <!-- Education Table Section -->
+        <div class="section-heading">🎓 Education</div>
+        <div class="table-wrapper">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Degree</th>
+                        <th>Institution</th>
+                        <th>Duration</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Ph.D.</strong> – 5G Communication Systems in Healthcare</td>
+                        <td>National Institute of Technology (NIT), Rourkela</td>
+                        <td>Jul 2026 – Present</td>
+                    </tr>
+                    <tr>
+                        <td><strong>M.Sc.</strong> Computer Science</td>
+                        <td>Central University of Odisha, Koraput</td>
+                        <td>Jul 2024 – Jun 2026</td>
+                    </tr>
+                    <tr>
+                        <td><strong>B.Sc.</strong> Information Science & Telecommunication</td>
+                        <td>Ravenshaw University, Cuttack</td>
+                        <td>Jul 2021 – Jun 2024</td>
+                    </tr>
+                    <tr>
+                        <td><strong>+2 Science</strong> (Intermediate)</td>
+                        <td>Stewart Science College, Cuttack</td>
+                        <td>Jul 2019 – Jun 2021</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Matriculation</strong> (10th)</td>
+                        <td>Ravenshaw Collegiate School, Cuttack</td>
+                        <td>2019</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <hr>
+
+        <!-- Research Project Section -->
+        <div class="section-heading">🔬 Current Research Project</div>
+        <div class="card">
+            <div class="card-title">Consortium of Technologies for Sustainable Agriculture, Health, Energy and Environment</div>
+            <div class="card-meta">
+                <strong>Funding Agency:</strong> Anusandhan National Research Foundation (ANRF) <br>
+                <strong>PI:</strong> Dr. Swadesh Kumar Pratihar &nbsp;|&nbsp; <strong>Co-PI:</strong> Dr. Suman Kumar Dey &nbsp;|&nbsp; <strong>Timeline:</strong> Jul 2026 – Present
+            </div>
+            <div class="card-body">
+                Contributing as a Project Fellow to a multi-domain research consortium developing technology-driven, sustainable solutions across agriculture, healthcare, energy, and environmental systems.
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- Publications Section -->
+        <div class="section-heading">📄 Publications</div>
+        <div class="card">
+            <div class="card-title" style="color: var(--text-heading);">
+                "A Systematic Review of Advancements in Blockchain IoT-Based Digital Transformations in Agricultural Systems"
+            </div>
+            <div class="card-meta" style="margin-bottom: 0;">
+                <em>Discover Sustainability</em>, <strong>Springer Nature</strong> — DOI: 10.xxxx/xxxxx
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- Achievements Section -->
+        <div class="section-heading">🏆 Achievements</div>
+        <div class="card" style="display: flex; align-items: center; gap: 0.75rem;">
+            <span style="font-size: 1.5rem;">🥇</span>
+            <div>
+                <strong>UGC-NET December 2024</strong>
+                <div class="card-meta" style="margin: 0;">Qualified for PhD Admission & Assistant Professorship eligibility across Indian Universities.</div>
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- Skills Section -->
+        <div class="section-heading">🛠️ Skills & Interests</div>
+        <div class="flex-badges">
+            <img src="https://img.shields.io/badge/5G%20Communication-4285F4?style=flat-square" alt="5G Communication" />
+            <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" alt="IoT" />
+            <img src="https://img.shields.io/badge/Blockchain-F7931A?style=flat-square" alt="Blockchain" />
+            <img src="https://img.shields.io/badge/Healthcare%20Systems-D81B60?style=flat-square" alt="Healthcare Systems" />
+            <img src="https://img.shields.io/badge/Sustainable%20Tech-43A047?style=flat-square" alt="Sustainable Tech" />
+            <img src="https://img.shields.io/badge/Research%20%26%20Academia-6A1B9A?style=flat-square" alt="Research & Academia" />
+        </div>
+
+        <hr>
+
+        <!-- Connect Section -->
+        <div class="section-heading">📫 Connect with Me</div>
+        <div class="connect-links">
+            <a href="mailto:youremail@example.com" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+            </a>
+            <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+            </a>
+            <a href="https://github.com/bsahoo8342" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            </a>
+            <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+            </a>
+        </div>
+
+        <!-- Footer Quote -->
+        <div class="quote-box">
+            ⭐️ "Bridging communication systems, IoT, and real-world sustainability challenges through research."
+        </div>
+
+    </div>
+
+</body>
+</html>
