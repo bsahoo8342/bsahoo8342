@@ -25,18 +25,6 @@ I'm a **PhD Scholar & Project Fellow** at the **National Institute of Technology
 
 <br>
 
-## 🎓 Education
-
-| Degree | Institution | Duration |
-|---|---|---|
-| **Ph.D. – 5G Communication Systems in Healthcare** | National Institute of Technology (NIT), Rourkela | Jul 2026 – Present |
-| **M.Sc. Computer Science** | Central University of Odisha, Koraput | Jul 2024 – Jun 2026 |
-| **B.Sc. Information Science & Telecommunication** | Ravenshaw University, Cuttack | Jul 2021 – Jun 2024 |
-| **+2 Science (Intermediate)** | Stewart Science College, Cuttack | Jul 2019 – Jun 2021 |
-| **Matriculation** | Ravenshaw Collegiate School, Cuttack | 2019 |
-
-<br>
-
 ## 🔬 Current Research Project
 
 **Consortium of Technologies for Sustainable Agriculture, Health, Energy and Environment**
@@ -77,18 +65,16 @@ Contributing as Project Fellow to a multi-domain research consortium developing 
 ## 📫 Connect with Me
 
 <div align="left">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:bsahoo8342@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://orcid.org/0000-0000-0000-0000">
+  <a href="https://orcid.org/0009-0004-6632-5710">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
   <a href="https://github.com/bsahoo8342">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
 </div>
 
 <br>
