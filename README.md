@@ -39,7 +39,7 @@ Contributing as Project Fellow to a multi-domain research consortium developing 
 ## 📄 Publications
 
 - **"A Systematic Review of Advancements in Blockchain IoT-Based Digital Transformations in Agricultural Systems"**
-  *Discover Sustainability, Springer Nature* — [DOI: 10.xxxx/xxxxx](https://doi.org/)
+  *Discover Sustainability, Springer Nature* — [DOI: 10.1007/s43621-026-04237-y]((https://doi.org/10.1007/s43621-026-04237-y))
 
 <br>
 
